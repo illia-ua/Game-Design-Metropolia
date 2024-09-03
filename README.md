@@ -1,1 +1,1 @@
-I'm Illia and this is my first commit for Game Design.
+I'm Illia Udovichenko and this is gone to be my Game Design project.
